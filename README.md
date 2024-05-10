@@ -1,7 +1,3 @@
-Certainly! Here's how you can update the README to reflect the change in the name of the Python script:
-
----
-
 # Almost Isosceles Pythagorean Triples Optimizer
 
 This repository contains an optimization algorithm for generating almost isosceles Pythagorean triples, starting from the triple (3, 4, 5). The algorithm, implemented in `AIPT_generator.py`, uses a specific method to update the values of x and y, which are then used to calculate the triples. 
@@ -27,7 +23,3 @@ If you have ideas for improving the optimizer or want to report a bug, feel free
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to also rename the Python script file from `optimizer.py` to `AIPT_generator.py` in your repository.
