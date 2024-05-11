@@ -7,7 +7,7 @@ This repository contains an optimization algorithm for generating almost isoscel
 To use the optimizer, simply clone the repository to your local machine and run the `AIPT_generator.py` script. 
 
 ```bash
-git clone https://github.com/abhrankan/almost-isosceles-pythagorean-triples.git
+git clone https://github.com/Abhrankan-Chakrabarti/almost-isosceles-pythagorean-triples.git
 cd almost-isosceles-pythagorean-triples
 python AIPT_generator.py
 ```
